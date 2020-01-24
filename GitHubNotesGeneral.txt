@@ -6,3 +6,6 @@ git add CourseNotes.txt     <---- make git start knowing about this file
 git commit -m "first commit to CourseNotes"  <--- Git Commit message
 git remote add origin https://github.com/aleaOneHundredDays/GitHubAdminNotes.git  
 git push -u origin master
+
+
+Add some other info here
